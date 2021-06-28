@@ -6,22 +6,11 @@
   "scripts": {
     "dev": "nodemon index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/LeandroCerron/AgenciaDeViajesNodeJS.git"
-  },
   "type": "module",
   "author": "Leandro Cerron",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/LeandroCerron/AgenciaDeViajesNodeJS/issues"
-  },
-  "homepage": "https://github.com/LeandroCerron/AgenciaDeViajesNodeJS#readme",
-  "dependencies": {
-    "express": "^4.17.1",
-    "mysql2": "^2.2.5",
-    "pug": "^3.0.2",
-    "sequelize": "^6.6.2"
   },
   "devDependencies": {
     "dotenv": "^10.0.0",
